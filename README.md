@@ -2,6 +2,19 @@
 
 Aplicacion Neobanking de inclusión financiera.
 
+## Arquitectura
+APIs Desarrolladas en Node.js con el framework Adonis
+### Ambiente del proyecto
+
+* AWS
+  * API (Node Js - Adonis)
+  * PostgreSQL
+  * App móvil (Dart - Flutter)
+
+
+## Ruta del instalable de la aplicación Movil
+tomil/tominapp/build/app/outputs/apk/app.apk
+
 ## Tabla de Contenido<!-- omit in toc -->
 - [Acceso a la api](#acceso-a-la-api)
 - [Ambiente del proyecto](#ambiente-del-proyecto)
@@ -12,12 +25,7 @@ La api se encuentra publicada en la siguiente ruta:
 
 [Api tomin](http://tomin-env-2.eba-dymffph5.us-west-2.elasticbeanstalk.com/)
 
-# Ambiente del proyecto
 
-* AWS
-  * API (Node Js - Adonis)
-  * PostgreSQL
-  * App móvil (Dart - Flutter)
 
 ## Ejecución de la api
 
